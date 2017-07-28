@@ -57,3 +57,19 @@ For information on troubleshooting Jekyll see:
 
 If you have any questions you can contact us by replying to this email.
 ```
+
+## take2
+
+```
+
+
+The page build completed successfully, but returned the following warning for the `master` branch:
+
+You are attempting to use the 'pygments' highlighter, which is currently unsupported on GitHub Pages. Your site will use 'rouge' for highlighting instead. To suppress this warning, change the 'highlighter' value to 'rouge' in your '_config.yml' and ensure the 'pygments' key is unset. For more information, see https://help.github.com/articles/page-build-failed-config-file-error/#fixing-highlighting-errors.
+
+For information on troubleshooting Jekyll see:
+
+  https://help.github.com/articles/troubleshooting-jekyll-builds
+
+If you have any questions you can contact us by replying to this email.
+```
