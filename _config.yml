@@ -1,3 +1,4 @@
+theme: jekyll-theme-architect
 highlighter: pygments
 markdown: redcarpet
 redcarpet:
