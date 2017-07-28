@@ -12,6 +12,7 @@ from https://help.github.com/articles/what-is-github-pages/
   - データサイズは 1GB 超えないでね
   - 通信は月 100GB を超えないでね
   - ビルド(Jekyllを使った場合1push=1build)は10回/hまでにしてね
+    - それじゃ足りない？ じゃあ Release 機能使うなり別のホスティングサービス使うなりしてちょ
 - 内容についても制限があるよ
   - まあ規約とかガイドラインに違反するなってことなんだけど、主なこと挙げとくと...
   - 暴力的、反社会的コンテンツ
@@ -36,3 +37,5 @@ Settings > Options > GitHub Pages
 
 マニュアルは https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/ この辺見ればいいっぽい？
 
+# Jekyll 試す
+[Markdownで書かれたページをGitHub Pagesで公開する - @yoshiki_utakata](http://yoshikyoto.github.io/text/git/gh_pages_md.html) やら [Jekyll + github pages を使って git + markdown でサイト構築 | akkunchoi@github](http://akkunchoi.github.io/jekyll-github-blogging.html) を参考にしつつ、最低限の構成を試す。
