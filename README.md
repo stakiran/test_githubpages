@@ -44,6 +44,7 @@ todo
 - [x] CSS 適用する
 - [ ] 書いた url の autolink
 - [ ] emoji を `:rage:` で :rage: みたく表示したい
+  - ~~input: GFM したらいける？~~ いけません。確か公式の issue に「GFMの内部実装知ってるわけじゃないよ。出来る限り真似してるだけだよ（だからGFMを100%踏襲できてるわけじゃないよ）」的なこと書いてた気がする。
 
 ## take1
 markdown エンジン redcarpet はサポートされてないんだとー。
@@ -82,3 +83,7 @@ If you have any questions you can contact us by replying to this email.
 
 実際: https://github.com/pages-themes にてテーマが多数公開されているので探す。適用方法も書いてある。最低限なら config に `theme: jekyll-theme-architect` みたいに書くだけでいい。CSS をいじりたいなら SCSS を所定ディレクトリに配置。HTML をカスタマイズしたいなら元リポジトリから default.html とか拝借してきて所定ディレクトリに配置していじる。
 
+## take4: autolink とか
+kramdown の能力次第。
+
+- config の書き方はこっち https://help.github.com/articles/configuring-jekyll/

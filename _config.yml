@@ -3,3 +3,4 @@ highlighter: Rouge
 markdown: kramdown
 kramdown:
   input: GFM
+  autolink: true
