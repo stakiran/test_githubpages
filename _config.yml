@@ -1,5 +1,5 @@
 theme: jekyll-theme-architect
 highlighter: Rouge
 markdown: kramdown
-    autolink: true
-    input: GFM
+  autolink: true
+  input: GFM
