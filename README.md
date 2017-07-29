@@ -43,6 +43,7 @@ Settings > Options > GitHub Pages
 todo
 - [ ] CSS 適用する
 - [ ] 書いた url の autolink
+- [ ] emoji を `:rage:` で :rage: みたく表示したい
 
 ## take1
 markdown エンジン redcarpet はサポートされてないんだとー。
