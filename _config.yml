@@ -1,4 +1,5 @@
 theme: jekyll-theme-architect
 highlighter: Rouge
 markdown: kramdown
+kramdown:
   input: GFM
