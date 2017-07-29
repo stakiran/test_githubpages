@@ -41,7 +41,7 @@ Settings > Options > GitHub Pages
 [Markdownで書かれたページをGitHub Pagesで公開する - @yoshiki_utakata](http://yoshikyoto.github.io/text/git/gh_pages_md.html) やら [Jekyll + github pages を使って git + markdown でサイト構築 | akkunchoi@github](http://akkunchoi.github.io/jekyll-github-blogging.html) を参考にしつつ、最低限の構成を試す。
 
 todo
-- [ ] CSS 適用する
+- [x] CSS 適用する
 - [ ] 書いた url の autolink
 - [ ] emoji を `:rage:` で :rage: みたく表示したい
 
