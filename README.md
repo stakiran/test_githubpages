@@ -1,6 +1,18 @@
 # test_githubpages
 GitHub Pages を試す。
 
+<!-- toc -->
+- [test_githubpages](#test_githubpages)
+- [公開 URL](#公開-url)
+- [GitHub Pages 仕様](#github-pages-仕様)
+- [設定方法](#設定方法)
+  - [Jekyll？](#jekyll)
+- [Jekyll 試す](#jekyll-試す)
+  - [take1](#take1)
+  - [take2](#take2)
+  - [take3: css](#take3-css)
+  - [take4: autolink とか](#take4-autolink-とか)
+
 # 公開 URL
 https://stakiran.github.io/test_githubpages/
 
@@ -43,6 +55,7 @@ Settings > Options > GitHub Pages
 todo
 - [x] CSS 適用する
 - [ ] 書いた url の autolink
+  - ~~autolink: true~~ ダメでした
 - [ ] emoji を `:rage:` で :rage: みたく表示したい
   - ~~input: GFM したらいける？~~ いけません。確か公式の issue に「GFMの内部実装知ってるわけじゃないよ。出来る限り真似してるだけだよ（だからGFMを100%踏襲できてるわけじゃないよ）」的なこと書いてた気がする。
 
