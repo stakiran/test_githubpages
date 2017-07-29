@@ -61,7 +61,7 @@ If you have any questions you can contact us by replying to this email.
 ```
 
 ## take2
-hilight engine もダメでした。
+hilight engine もダメだったので直します。
 
 ```
 
@@ -76,3 +76,9 @@ For information on troubleshooting Jekyll see:
 
 If you have any questions you can contact us by replying to this email.
 ```
+
+## take3: css
+仮説: default.html に css 読み込みの記載と、その css 本体を自力で作る（のは面倒なのでネット探せばあるでしょ）
+
+実際: https://github.com/pages-themes にてテーマが多数公開されているので探す。適用方法も書いてある。最低限なら config に `theme: jekyll-theme-architect` みたいに書くだけでいい。CSS をいじりたいなら SCSS を所定ディレクトリに配置。HTML をカスタマイズしたいなら元リポジトリから default.html とか拝借してきて所定ディレクトリに配置していじる。
+
