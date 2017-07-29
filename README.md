@@ -42,6 +42,7 @@ Settings > Options > GitHub Pages
 
 todo
 - [ ] CSS 適用する
+- [ ] 書いた url の autolink
 
 ## take1
 markdown エンジン redcarpet はサポートされてないんだとー。
@@ -59,6 +60,7 @@ If you have any questions you can contact us by replying to this email.
 ```
 
 ## take2
+hilight engine もダメでした。
 
 ```
 
